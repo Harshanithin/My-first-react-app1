@@ -1,0 +1,22 @@
+.container{
+    padding-top: 1px;
+    padding-bottom: 50px;
+    border-radius: 17px;
+    width: 500px;
+    height: 250px;
+    background-color: rgb(15, 211, 217);
+    margin: 13% auto;
+    transition: all 80ms;
+}
+.container h6{
+    text-align: center;
+    margin: 10% 10%;
+    font-size: larger;
+    
+}
+.container h4{
+    margin-top: 30px;
+    text-align: center;
+    text-decoration: underline;
+    font-size: 30px;
+}
